@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="origin" fetch="https://ksfEto:passw0rd@github.com/KsfEto"/>
+  <default revision="master" remote="origin" />
+  <project path="main" name="main"/>
+  <project path="sub" name="sub"/>
+</manifest>
